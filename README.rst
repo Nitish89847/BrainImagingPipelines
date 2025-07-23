@@ -1,15 +1,12 @@
-BIPS not being maintained - See Nipype Workflows
+BIPS not being maintained – See Nipype Workflows
 ================================================
 
-This package is currently not being maintained. We have focused our efforts on improving example workflows 
-within the Nipype package and on Nipype itself. We would welcome contributions to improve the examples.
+⚠️ This package is no longer actively maintained.
 
-Optimized Nipype_ pipelines for brain imaging
-=============================================
+Development and support have moved to the actively maintained `Nipype project <https://nipy.org/nipype>`_. We encourage you to use Nipype for updated workflows and examples. Contributions to Nipype are also welcome.
 
-`Detailed description of the pipelines <https://docs.google.com/document/d/1du0c1ltvNUvH5F3paIi1V3TUWV_-SarHsrId_eEII6I/edit>`_
+Optimized Nipype pipelines for brain imaging
+============================================
 
-`Documentation <http://www.mit.edu/~keshavan>`_
-
-.. _Nipype: nipy.org/nipype
-
+• `Detailed description of the pipelines <https://docs.google.com/document/d/1du0c1ltvNUvH5F3paIi1V3TUWV_-SarHsrId_eEII6I/edit>`_  
+• `Archived Developer Page – Documentation (Keshavan) <http://www.mit.edu/~keshavan>`_
